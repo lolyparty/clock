@@ -20,7 +20,7 @@ body {
 }
 
 .clock_container {
-    width: 100%;
+    width: 0%;
     height: 100%;
     display: flex;
     justify-content: center;
